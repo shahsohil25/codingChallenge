@@ -1,4 +1,4 @@
-Current Folder Stores all workable solutions.
+Current repository has all workable solutions.
 
 To run angular application -
 
