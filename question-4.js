@@ -5,9 +5,7 @@
 // };
 
 // bookStore.next();—>Gandhi
-
 // bookStore.next();—>Washington
-
 // bookStore.previous();—>Gandhi
 
 
