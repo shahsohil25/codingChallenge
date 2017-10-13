@@ -1,4 +1,4 @@
-// Demonstrate closure by implementing next previous operation over a collection.As you see the following snippet,bookStore has a collection of books.implement next/prev function to return one book at a time.
+// Use of closure
 
 // bookStore={
 // 	var books=["Gandhi","Washington","Churchill","Mandela"];

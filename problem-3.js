@@ -1,4 +1,4 @@
-//Summarize amount by type and frequency within type. Also provide a grand total. Output as you see fit.
+//Random javascript practice: Summarize amount by type and frequency within type and giving its grand total.
 
 var data = [
 	{"product":"ESPN", "type":"subscription", "frequency":"monthly", "amount":"15"},
